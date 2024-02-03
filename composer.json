@@ -1,0 +1,9 @@
+{
+    "name": "as984/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "require": {}
+}
